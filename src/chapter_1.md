@@ -30,3 +30,9 @@ Si todo funciona perfecto ...
 - gem install rails
 
 Y esta el setup principal
+
+
+
+
+
+- [Summary ](./SUMMARY.md)

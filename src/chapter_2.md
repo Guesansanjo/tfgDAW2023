@@ -11,3 +11,7 @@ Primero queremos ir a la web de Rails para comenzar la configuracion en Windows 
 Pasos segun RAILS GUIA :
 
 * Paso 1º : [NODE](https://nodejs.org/es/download/)
+
+
+
+- [Summary ](./SUMMARY.md)
