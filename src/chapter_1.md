@@ -13,12 +13,12 @@ Instalacion Setup Ruby on Rails.
 - __[Postgre](https://www.postgresql.org/download/windows/)__ - Postgre DB
 
 ::: warning
-*
-rails -v
-ruby -v 
-yarn -v 
-node -v
-*
+
+*rails -v*
+*ruby -v *
+*yarn -v* 
+*node -v*
+
 ::: 
 
     gem install rails
