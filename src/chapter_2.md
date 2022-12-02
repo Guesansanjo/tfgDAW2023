@@ -21,5 +21,9 @@ rails s
 ```
 ![gem tzinfo-data error](/src/image/error1.png)
 
+Para solucionar es
 
+::: warning
+*here be dragons*
+:::
 - [Summary ](./SUMMARY.md)
