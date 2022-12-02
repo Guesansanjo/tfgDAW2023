@@ -1,17 +1,25 @@
-# Chapter 2 :VUE...
-
-
----
-VUE 
+# Chapter 2 : Creacion proyecto.
 
 ---
-Primero queremos ir a la web de Rails para comenzar la configuracion en Windows 11 ...
-[RAILS GET STARTED](https://guides.rubyonrails.org/getting_started.html)
+Primeros pasos en Rails
 
-Pasos segun RAILS GUIA :
+---
 
-* Paso 1º : [NODE](https://nodejs.org/es/download/)
+```ruby
+gem install rails
+rails new <application_name> -d postgresql
+bundle install
+bundle update
+```
 
+Con estos comandos creamos un proyecto en Rails con DB Postgre.
+
+Ejecutamos el sevidor ...
+
+```ruby
+rails s
+```
+![gem tzinfo-data error](/src/image/error1.png)
 
 
 - [Summary ](./SUMMARY.md)
