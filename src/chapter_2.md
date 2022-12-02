@@ -21,9 +21,23 @@ rails s
 ```
 ![gem tzinfo-data error](/src/image/error1.png)
 
-Para solucionar es
+Este error se soluciona eliminando la gem o actualizandola.
 
-::: warning
-*here be dragons*
-:::
+
+```ruby
+gem 'tzinfo-data', '~> 1.2022', '>= 1.2022.7'
+```
+Se modificara por esto en el Gemfile.
+
+Configuramos la base de datos.
+
+![Postgre](/src/image/configDB.png)
+
+En database.yml en las tres instancias , development,test y production , ponemos nuestras credenciales.
+
+- DB name
+- Superuser
+- Password
+- Port
+
 - [Summary ](./SUMMARY.md)
