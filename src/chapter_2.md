@@ -40,4 +40,10 @@ En database.yml en las tres instancias , development,test y production , ponemos
 - Password
 - Port
 
+```ruby
+rails s
+```
+
+Funciona correctamente , ya tenemos el esqueleto sobre el que montar nuestra webapp.
+
 - [Summary ](./SUMMARY.md)
