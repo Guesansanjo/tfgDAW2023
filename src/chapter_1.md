@@ -21,7 +21,7 @@ node -v
         gem install rails
 
 
-Setup finalizaso.
+Setup finalizado.
 
 
 
