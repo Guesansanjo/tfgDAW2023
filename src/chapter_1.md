@@ -18,8 +18,7 @@ ruby -v
 yarn -v 
 node -v
 ```
-
-    gem install rails
+> gem install rails
 
 
 Setup finalizaso.
