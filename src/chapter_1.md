@@ -12,7 +12,7 @@ Instalacion Setup Ruby on Rails.
 - __[Rails installer](https://rubyinstaller.org/)__ - Setup env para Rails
 - __[Postgre](https://www.postgresql.org/download/windows/)__ - Postgre DB
 
-::: warning
+:::warning
 rails -v
 ruby -v 
 yarn -v 
