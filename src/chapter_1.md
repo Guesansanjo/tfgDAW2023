@@ -1,14 +1,23 @@
-# Chapter 1 :Installacion...
+# Chapter 1 : Instalacion.
 
 
 ---
-Ruby API , Postgre , VUE 
+Instalacion Setup Ruby on Rails.
 
 ---
+
+```java
+```
+
+
+
+
 Primero queremos ir a la web de Rails para comenzar la configuracion en Windows 11 ...
 [RAILS GET STARTED](https://guides.rubyonrails.org/getting_started.html)
 
 Pasos segun RAILS GUIA :
+
+- __[Node.js](https://nodejs.org/es/download/)__ - Node.js packet manager
 
 * Paso 1º : [NODE](https://nodejs.org/es/download/)
 * Paso 2º :[Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
