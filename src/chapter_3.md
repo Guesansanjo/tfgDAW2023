@@ -6,8 +6,7 @@ POSTGRE
 
 ---
 
-![Screenshot](screenshot.png)
-
+![Screenshot](/src/image/screenshot.png)
 
 
 - [Summary ](./SUMMARY.md)
