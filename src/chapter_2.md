@@ -46,4 +46,10 @@ rails s
 
 Funciona correctamente , ya tenemos el esqueleto sobre el que montar nuestra webapp.
 
+Para facilidad de diseño de la web utilizaremos Bootstrap con la gem boostrsap
+
+```ruby
+gem 'bootstrap', '~> 5.2', '>= 5.2.3'
+```
+
 - [Summary ](./SUMMARY.md)
