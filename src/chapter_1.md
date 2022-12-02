@@ -14,9 +14,6 @@ Instalacion Setup Ruby on Rails.
 
 ::: warning
 rails -v
-ruby -v 
-yarn -v 
-node -v
 ::: 
 
     gem install rails
