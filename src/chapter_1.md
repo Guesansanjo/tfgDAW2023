@@ -12,28 +12,18 @@ Instalacion Setup Ruby on Rails.
 - __[Rails installer](https://rubyinstaller.org/)__ - Setup env para Rails
 - __[Postgre](https://www.postgresql.org/download/windows/)__ - Postgre DB
 
-```grey
+::: warning
 rails -v
 ruby -v 
 yarn -v 
 node -v
+::: 
 
 ```
-Una vez instalados el ultimo instala Ruby y un ENV por si queremos diferentes versiones...
+gem install rails
+```
 
-    Comandos cmd para ver :
-- rails -v
-- ruby -v 
-- yarn -v 
-- node -v
-
-Si todo funciona perfecto ...
-
-- gem install rails
-
-Y esta el setup principal
-
-
+Setup finalizaso.
 
 
 
